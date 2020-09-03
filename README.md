@@ -1,4 +1,4 @@
-# Hello!, Welcome to my Profile :computer: :console:
+# Hello!, Welcome to my Profile :computer:
 
 <img align="left" alt="jdramirezl GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jdramirezl&show_icons=true&hide_border=true%22/%3E">
 
