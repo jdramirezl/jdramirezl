@@ -24,11 +24,11 @@ When I'm not coding, you can find me cooking, gaming or at the Gym.
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
  <div>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdramirezl-mp4&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdramirezl&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
  
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jdramirezl-mp4" alt="Gift's LangStat" />. 
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jdramirezl" alt="Gift's LangStat" />. 
    
- <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jdramirezl-mp4&show_icons=true" />. 
+ <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jdramirezl&show_icons=true" />. 
  
 
 </div>
